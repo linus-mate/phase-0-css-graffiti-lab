@@ -1,1 +1,23 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+    background: none;
+  }
+#wall #tag-2{
+    display: none;
+    background: none;
+}  
+div#wall #tag-3.slick{
+    display: none;
+    background: none;
+}
+div{
+    display: none;
+}
+#wall{
+    background: none;
+}
+body{
+    background: none;
+    display: none;
+}
